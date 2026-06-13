@@ -1,7 +1,8 @@
-This is a compatct app for installing required apps after Factory Reset.
+This is a compatct utility for installing/uninstalling/Optimizing.
 
     Requirements:
     -Winget Latest
     -Python 3.13
+    -PySide6
 
 
